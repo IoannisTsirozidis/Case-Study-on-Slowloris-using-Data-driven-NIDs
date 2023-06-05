@@ -4,3 +4,5 @@ This thesis focuses on the conceptual framework of Denial of Service (DoS) attac
 
 <br>
 
+
+The Statistical Majority Isolation Forest model was employed to detect Slowloris attacks in data-at-rest. Through the utilization of network metrics aligned with Slowloris behavior, the model achieved an accuracy of 94.36%, with a precision of 99.36% and a recall of 94.91%. These results were obtained by deliberately selecting data specifically designed to exhibit Slowloris characteristics. 
