@@ -23,5 +23,16 @@ The graphical analysis further confirmed the role of a Denial of Service (DoS) a
     <img src="https://github.com/IoannisTsirozidis/Study-on-Slowloris-using-data-driven-NID/blob/main/Statistics%20and%20Graphs/flow%20iat%20max.png" alt="Alt Text" width="200" height="150">
 </div>
 
+<br>
+<br>
+
+
+The Google Colab notebook containing all the code for the statistical analysis of CICIDS' 17, CSE-CIC-IDS 18', and UNSW-NB-15' datasets is available upon request via email. 
+<br>
+Network metrics taken into consideration include:
+<blockquote style="border-left: 2px solid gray; padding-left: 10px;">
+    Subflow Bwd Byts, Bwd Seg Size Avg, Init Fwd Win Byts, TotLen Fwd Pkts, Flow Duration, Fwd IAT Std
+</blockquote>
+
 
 
