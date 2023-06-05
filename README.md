@@ -4,7 +4,7 @@ This thesis focuses on the conceptual framework of Denial of Service (DoS) attac
 
 <br>
 
-The [Google Colab Notebook](https://colab.research.google.com/drive/1ELn9DS12bPHAf-PQJEeZEqKVvfq80uGF?usp=sharing) containing all the code for the statistical analysis of CICIDS' 17, CSE-CIC-IDS 18', and UNSW-NB-15' datasets and the Network metrics that were taken into consideration:
+The [Google Colab Notebook](https://colab.research.google.com/drive/1ELn9DS12bPHAf-PQJEeZEqKVvfq80uGF?usp=sharing) contains all the code for the statistical analysis of CICIDS' 17, CSE-CIC-IDS 18', and UNSW-NB-15' datasets and the Network metrics that were taken into consideration:
 <blockquote style="border-left: 2px solid gray; padding-left: 10px;">
     Subflow Bwd Byts, Bwd Seg Size Avg, Init Fwd Win Byts, TotLen Fwd Pkts, Flow Duration, Fwd IAT Std
 </blockquote>
